@@ -1,0 +1,12 @@
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/icudtl.dat
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/flutter_windows.dll
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/assets/logo.png
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/assets/welcome.png
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

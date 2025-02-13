@@ -1,0 +1,10 @@
+^E:\IIT\UOW\FYP\STUDENT OPTIONAL MODULE RECOMMENDATION APPLICATION\EDUTRACK\BUILD\WINDOWS\X64\CMAKEFILES\823A1AFC2C4EBC97CBBBA3174F819ABA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SE:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/windows" "-BE:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/edutrack.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

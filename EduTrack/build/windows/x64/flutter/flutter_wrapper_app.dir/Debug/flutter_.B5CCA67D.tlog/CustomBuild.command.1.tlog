@@ -1,0 +1,10 @@
+^E:\IIT\UOW\FYP\STUDENT OPTIONAL MODULE RECOMMENDATION APPLICATION\EDUTRACK\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SE:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/windows" "-BE:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64" --check-stamp-file "E:/IIT/UOW/FYP/Student Optional Module Recommendation Application/EduTrack/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

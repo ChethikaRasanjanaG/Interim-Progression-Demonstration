@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\IIT\UOW\FYP\Student Optional Module Recommendation Application\EduTrack\build\windows\x64\CMakeFiles\7e733f4e4e2ad85c9b06dad1355a9f3d\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\IIT\UOW\FYP\Student Optional Module Recommendation Application\EduTrack\build\windows\x64\CMakeFiles\f41e164e8e8db9fed4888aee9faeb9c2\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\IIT\UOW\FYP\Student Optional Module Recommendation Application\EduTrack\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\IIT\UOW\FYP\Student Optional Module Recommendation Application\EduTrack\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{52DE74F7-34A6-3700-9C15-048F47F7FF15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
